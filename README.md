@@ -69,9 +69,9 @@
 </p>
 
 Technologies & Skills:
-- Languages: C++, C, JavaScript, Python.
+- Languages: C++, C, JavaScript, PHP, Python.
 - Front-end Technologies: HTML, React.js, CSS, Bootstrap, Tailwind CSS.
-- Backend Technologies: Node.js, Express.js, PHP, Laravel.
+- Backend Technologies: Node.js, Express.js, Laravel.
 - Databases: SQL, MongoDB, MySQL.
 - Other Tools/Technologies: Git, GitHub, VS Code, Rest-API.
 
